@@ -1,0 +1,4 @@
+- Created SQL file to define the schema for the employee database.
+- Implemented queries to calculate employee bonuses based on performance criteria.
+- Added queries to identify the top-paid employees in each department.
+- Includes table definitions, data insertion, and analysis queries.
